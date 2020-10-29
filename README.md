@@ -21,8 +21,7 @@ Students will:
 |:-----:|:----------------------:|:---------------------------------------:|
 |  [EC 2000] |  Effective Communication 2: Rhetoric and Research | 4.00 Units |
 
-[EC 2000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
-
+[EC 2000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning.
 
 [EC 2000]:https://drive.google.com/file/d/1t7QVBWNc8J_QEYtlLJbKFuD-DoZ8OIRO/view?usp=sharing
 
