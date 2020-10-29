@@ -4,26 +4,27 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Effective Communication 2 (EC 2)
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Demonstrate advanced critical thinking through such methods as summary, evaluation, synthesis, and integration of research; 
+- Create effective, original, and argumentative rhetoric across media (oral, visual, and written) appropriate to topic, purpose, and audience; topics and issues may include problem solving, civic engagement, and/or positing policy or social change;
+- Apply understanding of how communication shapes and is shaped by difference (including but not limited to categories such as race, gender, sexuality, age and class) and reflect on one’s own place in a broader social context;
+- Evaluate source material, synthesize new concepts, and apply deduction, induction, and/or logic for advanced argumentative research purposes; use proper citation and documentation.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [EC 2000] |  Effective Communication 2: Rhetoric and Research | 4.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[EC 2000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[EC 2000]:https://drive.google.com/file/d/1t7QVBWNc8J_QEYtlLJbKFuD-DoZ8OIRO/view?usp=sharing
 
 
 ## Make School Course Policies
