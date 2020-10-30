@@ -17,13 +17,14 @@ Students will:
 
 ## Courses That Fulfill This Requirement
 
-| Class |          Title          |                 Units                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 2000] |  Effective Communication 2: Rhetoric and Research | 4.00 Units |
+| Class |          Title          |       Semester - Section       | Units |
+|:-----:|:----------------------:|:---------------------------:|:--------|
+|  EC 2000 |  Effective Communication 2: Rhetoric and Research | [Fall 2020] - Section A | 4.00 Units |
+|  EC 2000 |  Effective Communication 2: Rhetoric and Research | [Fall 2020] - Section B | 4.00 Units |
 
-[EC 2000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning.
+EC 2000 - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning.
 
-[EC 2000]:https://drive.google.com/file/d/1t7QVBWNc8J_QEYtlLJbKFuD-DoZ8OIRO/view?usp=sharing
+[Fall 2020]:https://drive.google.com/file/d/1t7QVBWNc8J_QEYtlLJbKFuD-DoZ8OIRO/view?usp=sharing
 
 
 ## Make School Course Policies
