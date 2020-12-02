@@ -19,6 +19,8 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  EC 2000 |  Effective Communication 2: Rhetoric and Research | Spring 2021 - Section A | 4.00 Units |
+|  EC 2000 |  Effective Communication 2: Rhetoric and Research | Spring 2021 - Section B | 4.00 Units |
 |  EC 2000 |  Effective Communication 2: Rhetoric and Research | [Fall 2020] - Section A | 4.00 Units |
 |  EC 2000 |  Effective Communication 2: Rhetoric and Research | [Fall 2020] - Section B | 4.00 Units |
 
